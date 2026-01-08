@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+Backend/venv/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+#testing
+Backend/test_api.py
